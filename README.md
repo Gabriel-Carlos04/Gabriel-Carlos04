@@ -1,4 +1,4 @@
-## 👋🏼HU, IM Gabriel Carlos! 
+## 👋🏼Hi, Im Gabriel Carlos! 
 
 
 ### Back end developer 👨‍💻
