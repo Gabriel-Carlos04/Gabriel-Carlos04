@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m not currently working on 
-- 🌱 I’m currently learning JAVA, SRINGBOOT, DSA, ALGORITHM
+- 🌱 I’m currently learning JAVA, SPRINGBOOT and DSA
 - 👯 I’m looking to collaborate on Back-end projects
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Games, Races and Cars
